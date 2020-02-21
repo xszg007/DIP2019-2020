@@ -4,7 +4,7 @@
 #include "stdafx.h"
 #include <iostream>
 
-using namespace std;
+using namespace std;//
 
 int PrimeNum(int n)
 {
